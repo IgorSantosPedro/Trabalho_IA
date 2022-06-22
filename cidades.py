@@ -1,5 +1,5 @@
-class Cidades:
-    lista_cidades = [
+class Estádio:
+    lista_estadios = [
         'Estádio_Al_Thumama',
         'Estádio_Al_Janoub',
         'Estádio_Al_Bayt',
@@ -8,8 +8,13 @@ class Cidades:
         'Estádio_974',
         'Estádio_Internacional_Khalifa',
         'Estádio_Lusail',
+        'Delegação_Alemã_(DFB)_Zulal_Wellness_Resort',
+        'Delegação_Argentina_(AFA)_Qatar_University_Sports_&_Events_Complex',
+        'Delegação_Brasileira_(CBF)_Westin_Hotel_Doha',
+        'Delegação_Francesa_(FFF)_Al_Messila_Resort',
+
     ]
-    cidades_string = '''
+    estadios_string = '''
     1 - Estádio Al Thumama
     2 - Estádio Al Janoub
     3 - Estádio Al Bayt
@@ -17,5 +22,9 @@ class Cidades:
     5 - Estádio Cidade da Educação
     6 - Estádio 974
     7 - Estádio Internacional Khalifa
-    8 - Estádio Lusail\n
+    8 - Estádio Lusail
+    9 - Delegação_Alemã_(DFB)_Zulal_Wellness_Resort
+    10 - Delegação_Argentina_(AFA)_Qatar_University_Sports_&_Events_Complex
+    11 - Delegação_Brasileira_(CBF)_Westin_Hotel_Doha
+    12 - Delegação_Francesa_(FFF)_Al_Messila_Resort\n
     '''
